@@ -1,1 +1,2 @@
-this is example1 text
+this is example1 text.
+changes made in example.txt
